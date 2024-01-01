@@ -1,0 +1,3 @@
+local humanoid = player:FindfirstChild("Humanodi")
+                       game.Players.Localplayer.humanoid.Walkspeed = 100
+end
